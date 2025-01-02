@@ -46,7 +46,7 @@
 <td width="50%">
 <h3 align="center">React Desde Cero</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/react.png" width="400" alt="Curso React"></a>
+<a href="" target="_blank"><img src="" width="400" alt="Curso React"></a>
 <p>
 <a href="" target="_blank">
 <img src="">
